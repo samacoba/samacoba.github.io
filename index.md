@@ -29,6 +29,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### リンク
 [twitter](https://twitter.com/samacoba)
+
 [Qiita](https://qiita.com/samacoba)
+
 [はてなブログ](http://samacoba.hatenablog.com/)
+
 
