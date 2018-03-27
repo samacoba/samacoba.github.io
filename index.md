@@ -28,10 +28,10 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### リンク
-[twitter](https://twitter.com/samacoba)
+[twitter：https://twitter.com/samacoba](https://twitter.com/samacoba)
 
-[Qiita](https://qiita.com/samacoba)
+[Qiita：https://qiita.com/samacoba](https://qiita.com/samacoba)
 
-[はてなブログ](http://samacoba.hatenablog.com/)
+[はてなブログ：http://samacoba.hatenablog.com/](http://samacoba.hatenablog.com/)
 
 
