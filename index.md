@@ -3,7 +3,7 @@ You can use the [editor on GitHub](https://github.com/samacoba/samacoba.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### 自己紹介
+## 自己紹介
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -27,11 +27,11 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### リンク
-[twitter：https://twitter.com/samacoba](https://twitter.com/samacoba)
+## リンク
+twitter[https://twitter.com/samacoba](https://twitter.com/samacoba)
 
-[Qiita：https://qiita.com/samacoba](https://qiita.com/samacoba)
+Qiita[https://qiita.com/samacoba](https://qiita.com/samacoba)
 
-[はてなブログ：http://samacoba.hatenablog.com/](http://samacoba.hatenablog.com/)
+はてなブログ[http://samacoba.hatenablog.com/](http://samacoba.hatenablog.com/)
 
 
