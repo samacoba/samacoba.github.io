@@ -1,4 +1,5 @@
-## samacoba（さまこば）
+## samacoba
+（さまこば）
 
 ![Image](https://avatars3.githubusercontent.com/u/18510726?s=400&u=9673181be183602689de6de5891e9fb1513d44cd&v=4)
 
