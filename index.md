@@ -18,5 +18,5 @@
 * はてなブログ
 [http://samacoba.hatenablog.com/](http://samacoba.hatenablog.com/)
 
-* Github
+* GitHub
 [https://github.com/samacoba](https://github.com/samacoba)
