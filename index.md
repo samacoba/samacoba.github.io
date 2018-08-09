@@ -10,7 +10,7 @@
 
 ## プロジェクト
 * Object Counter
-https://github.com/samacoba/ObjectCounter(https://github.com/samacoba/ObjectCounter)
+[https://github.com/samacoba/ObjectCounter](https://github.com/samacoba/ObjectCounter)
 
 ## リンク
 * twitter
