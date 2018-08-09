@@ -8,6 +8,10 @@
 
 金沢市在住(Japan)
 
+## プロジェクト
+* Object Counter
+https://github.com/samacoba/ObjectCounter(https://github.com/samacoba/ObjectCounter)
+
 ## リンク
 * twitter
 [https://twitter.com/samacoba](https://twitter.com/samacoba)
