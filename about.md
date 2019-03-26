@@ -16,7 +16,7 @@ permalink: /about/
 金沢市在住(Japan)
 
 ## ブログについて
-[https://samacoba.gihub.io](https://samacoba.gihub.io)
+[https://samacoba.gihub.io](https://samacoba.github.io)
 
 さまこばの雑記ブログになります。
 過去に書いたブログや他のブログのバックアップとしてつかっています。
