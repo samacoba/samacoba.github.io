@@ -1,7 +1,7 @@
 # このリポジトリの説明
 
 samacobaのブログへアクセスはこちら  
-https://samacoba.github.io/blog/
+https://samacoba.github.io
 
 このリポジトリは以下のものが含まれています。
 
