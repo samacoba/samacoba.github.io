@@ -1,13 +1,9 @@
 ---
 layout: page
-title: このブログについて
+title: プロフィール
 permalink: /about/
 ---
 
-さまこばの雑記ブログになります
-
-過去に書いたブログや他のブログのバックアップとしてつかっています
- 
 
 ## samacoba
 （さまこば）
@@ -18,6 +14,12 @@ permalink: /about/
 ⇒ 10年間エンジニア ⇒ 2018.4～ 学生（博士）
 
 金沢市在住(Japan)
+
+## ブログについて
+[https://samacoba.gihub.io](https://samacoba.gihub.io)
+
+さまこばの雑記ブログになります。
+過去に書いたブログや他のブログのバックアップとしてつかっています。
 
 ## プロジェクト
 * Object Counter
@@ -38,3 +40,6 @@ permalink: /about/
 
 ## 連絡先
 何かあればsamacoba【アットマーク】outlook.jpにご連絡ください
+
+
+ 
