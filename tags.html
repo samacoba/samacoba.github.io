@@ -1,0 +1,16 @@
+---
+layout: page
+title: タグ別一覧
+permalink: /tags
+---
+
+{% for tag in site.tags %}
+  <article>
+    <h2 id="{{ tag[0] }}">{{ tag[0] }}</h2>
+    <ul>
+      {% for post in tag[1] %}
+      <li><a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }} {{ post.date | date: "%Y年%m月%d日" }}</a></li>
+      {% endfor %}
+    </ul>
+  </article>
+{% endfor %}

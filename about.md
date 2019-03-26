@@ -1,7 +1,18 @@
+---
+layout: page
+title: このブログについて
+permalink: /about/
+---
+
+さまこばの雑記ブログになります
+
+過去に書いたブログや他のブログのバックアップとしてつかっています
+ 
+
 ## samacoba
 （さまこば）
 
-![Image](https://avatars3.githubusercontent.com/u/18510726?s=400&u=9673181be183602689de6de5891e9fb1513d44cd&v=4)
+![Image](/images/github-samacoba.jpg)
 
 1983年生まれ ⇒ 2008年修士卒  
 ⇒ 10年間エンジニア ⇒ 2018.4～ 学生（博士）
