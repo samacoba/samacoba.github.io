@@ -18,8 +18,8 @@ permalink: /about/
 ## ブログについて
 [https://samacoba.gihub.io](https://samacoba.github.io)
 
-さまこばの雑記ブログになります。
-過去に書いたブログや他のブログのバックアップとしてつかっています。
+さまこばの雑記ブログになります。  
+過去のブログや他のブログのバックアップとして使っています。
 
 ## プロジェクト
 * Object Counter
