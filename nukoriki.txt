@@ -1,0 +1,913 @@
+AUTHOR: NU
+TITLE: タイトルについて
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: default
+ALLOW PINGS: 0
+PRIMARY CATEGORY: ブログについて
+CATEGORY: ブログについて
+
+DATE: 07/21/2008 22:38:13
+-----
+BODY:
+タイトルは2chで見つけてちょっと気に入ったから
+つけさせていただきました。
+特に意味はないけど。
+googleで「ぬこ力学」で検索したらもう一番上に。
+
+ぬこ力学第一法則 
+冬期はぬこから低温熱源に熱は移動しない 
+夏季は高温熱源からぬこに熱は移動しない 
+
+ぬこ力学第二法則 
+ぬこは第一法則を満たすように移動する
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: NU
+TITLE: NHKBS
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: default
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 未分類
+CATEGORY: 未分類
+
+DATE: 07/21/2008 23:25:50
+-----
+BODY:
+BSデジタル放送はBSアナログと違って、
+NHK以外の放送がたくさんある。
+あんまり見たいものがないような気もするけど、
+例えば地方の人が深夜アニメを見たい場合は、BSぐらいしかない。
+
+で、それまで、地上波しか見れなかった
+地方のアニオタがBSデジタルのアニメを見ようと新しくテレビを買ったとする。
+そうすると、NHKBSの受信料プラス月々945円がかかってくるわけだ。
+
+ここで、なぜNHKが強制的にお金を取る方式なのかをちょっと考えてみる。
+NHKは公共放送ということで、民間だけに任せるとできないことをする
+というのが存在理由のはずである。
+CMの収入で運営するとその企業の言いなりになって、
+公平なニュースができないかもしれない。
+また、税金にすると政府の言いなりになるから、
+国民から強制的に取る方式になったのだと思われる。
+
+で、話は戻って今のNHKBSに公共性の高い放送がどれだけあるかと。
+大リーグ、サッカー、韓流ドラマなどは民放でも全然問題ないだろと。
+アニオタがアニメを見るためにBSチューナーが入ったテレビを買うと
+全然見ない韓流ドラマのためにプラス月々945円がとられるのはおかしい。
+
+大リーグ、サッカー、韓流ドラマなどは
+スカパーなどの民放で見たい人が払ってみるものであって、
+NHKが強制的にお金を取って放送すべきものじゃない。
+
+地上波で最低限の公共的なニュースを流す程度ならば
+NHKはあってもいいかもしれない。
+だけど、総合、教育、BSハイビジョン、BS1、BS2
+こんなにたくさんチャンネルは必要ない。
+
+NHKがBSをどうしても流したいのであれば、
+さっさとスクランブル化して、見たい人だけ料金を払うようにしてくれ。
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: NU
+TITLE: 外債プレミアムはあるか
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: default
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 投資
+CATEGORY: 投資
+
+DATE: 07/27/2008 21:43:29
+-----
+BODY:
+外国の国債の利回りをみると日本より高い場合がほとんどだ。
+下に示したのは最近の国債の入札での利回りで、
+日本は他の国と比べると利回りが低い。
+
+１０年（９年くらいのも含む）物の国債利回り（2008年発行時)
+日本　   7月  1.704%
+http://www.mof.go.jp/jouhou/kokusai/1c010.htm
+イギリス 5月  4.912%
+http://www.dmo.gov.uk/index.aspx?page=Gilts/Operations_Results
+米国　   6月  4.225%
+http://www.treasurydirect.gov/RI/OFNtebnd
+フランス 7月  4.85%
+http://www.aft.gouv.fr/
+
+だから、普通は単純に国債よりも外債に投資したほうが
+リターンが大きいと思ってしまう。
+しかし、外債に投資すると為替の変動があるので、
+投資中に円高になってしまうと利回りが小さくなる。
+なので普通の国債では単純に利回りだけだと比較ができない。
+
+では、為替はどのように決まってくるかちょっと考えてみた。
+ここで、100mほどの距離にＡ国とＢ国があった場合を想定してみる。
+Ａ国が円、Ｂ町がドルの通貨を使っており、
+世界で売っているものはテレビのみだとする。
+
+はじめ、テレビがＡ国で10000円、Ｂ国で100ドルだったとする。
+このとき為替レートは1ドル＝100円となるはずである。
+
+もし、1ドル＝110円だとＢ国の人は90.9ドルを10000円に換えて
+Ａ国でテレビを買おうとするだろう。
+しかし、Ａ国の人は10000円を90.9ドルに換えてもＢ国でテレビを買えないので、
+だれも、円→ドルに変換しようしないだろう。
+結局、為替レートは1ドル＝100円でしか取引は成り立たないことになる。
+
+もし、Ｂ国のみインフレが起きて、テレビが105ドルになったとする。
+こうなると為替レートは1ドル＝95.2円と円高になるはずである。
+
+このように為替は長期的には物価に連動すると考えることができる。
+もちろん、他の要因もたくさんあり得るとは思う。
+
+次に、リターンを比べるために物価連動国債というものに注目してみる。
+これは国によって少しちがうが、基本的には元本が物価に連動して、
+その元本に対して一定の利率で利息がつくようになっている。
+もし、為替が物価に連動するならば、投資先の国のみ
+インフレが起こると投資先の物価連動国債の元本の増加するが、
+同時に円高が起こり、円換算の元本は変わらない。
+したがって、物価連動国債の利率によって、
+どの国のリターンが大きいか大まかには比較できるはずである。
+
+下に示したのは最近の物価連動国債の入札での利回りである。
+（利率と利回りは違うが、利率と考えてもそれほど問題はないと思う。）
+
+１０年（９年くらいのも含む）物の物価連動国債利回り（2008年発行時)
+日本　    6月  1.400% 
+イギリス　4月  1.196%
+米国　    7月  1.485%
+フランス　7月  2.2%
+
+普通の国債とは違い、物価連動国債では日本の利回りが他国と比べて極端に低くはない。
+なので、外国債券に投資すれば極端にリターンが大きいわけはなさそうである。
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: NU
+TITLE: ガソリン価格が下がる？
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: default
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 未分類
+CATEGORY: 未分類
+
+DATE: 08/02/2008 16:29:09
+-----
+BODY:
+８月に入ってまたガソリンの価格が上がったを見ていると、
+どんどんきりがないように上がっていくように思ってしまう。
+
+でも、原油先物の価格を見ていると最近少し下がっている。
+
+ガソリンの価格のかわり方は、
+
+①原油先物の価格がかわる
+　　　　　↓
+②ガソリンの卸売りの価格がかわる
+　　　　　↓
+③ガソリンの店頭価格がかわる
+
+という流れだと思われる。
+
+卸売りの価格の改定はニュースとかで見ていると、
+月のはじめは必ずあり、、他には月の真ん中くらい
+にもある会社があるようなので、月に1～２回ほどしかないようだ。
+だから、先物の価格がかわっても卸売りの価格が
+すぐかわるわけじゃない。
+
+それに対し、最近は卸売りの価格がかわると、
+店頭の価格はわりとすぐかわるようになっている。
+
+下のグラフは石油情報センターというところが週に１回調査している
+全国平均のガソリンの店頭価格とアメリカのＷＴＩ原油先物の価格である。
+（８月のデータはまだない）
+
+<a href="http://blog-imgs-26.fc2.com/n/u/k/nukoriki/genyu.gif" target="_blank"><img src="http://blog-imgs-26.fc2.com/n/u/k/nukoriki/genyu.gif" alt="原油先物とガソリン店頭価格" border="0" /></a>
+
+ちょっと見にくいけど、原油先物の方が上がったあと、ガソリン価格が遅れて上がって
+いるように見える。下がるときも同じように先物の方が先の下がるように見える。
+
+なので、原油先物の価格を見ると近々店頭のガソリン価格が上がるか下がるかは
+ある程度予想はできそうである。
+
+パッと見た感じでは来月は５円くらいは下がるかもしれないので、
+タンクのガソリンに余裕がある人は来月までねばるとお得かも。
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: NU
+TITLE: 自動車税が排気量からCO２排出量へ
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: default
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 未分類
+CATEGORY: 未分類
+
+DATE: 09/07/2008 22:49:56
+-----
+BODY:
+「排気量」から「ＣＯ２排出量」へ　経産省が自動車税制の変更検討 
+http://sankei.jp.msn.com/economy/business/080824/biz0808240046000-n1.htm
+
+ちょっとまえのニュースだけど、今日始めて見た。
+個人的には賛成です。
+
+現在　自動車税は年額
+
+軽自動車　　　　　　　　　　　　　　　　　　7,200円
+乗用車 
+総排気量１リットル以下                　　　　      　　 　 29,500円
+総排気量１リットル超１．５リットル以下 	34,500円
+総排気量１．５リットル超２リットル以下 	39,500円
+
+なので、軽自動のほうがかなり安い。
+これがいいのか悪いのかを考えるために、
+税金はどうあるべきかをちょっと考えてみる。
+
+税金は一律に取るべきだという考えはあると思う。
+しかし、税金の取り方として金持ちから多く取るべきという考え方もある。
+これは、税金を通して格差を縮めるという目的をもつ。
+
+軽規格ができたころは「金持ちからとるべき」という考えから、
+贅沢である乗用車に高い税金をかけたと思われる。
+
+しかし、時代は変わって、世界的にCO２を減さないといけないようになってきた。
+このため、今度は「CO２を減らすべき」という考えをもった
+税金にしていく必要が出てきたのだと思う。
+
+だが、現在の税制はこの「金持ちからとるべき」と「CO２を減らすべき」
+の両方に矛盾がある場合がある。
+重いワゴンでターボをつけた軽はコンパクトカーより
+高くて、燃費が悪い場合もある。
+
+だから、軽自動車の優遇をなくして、CO２単位にするのは賛成。
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: NU
+TITLE: 投資の確率分布を考えてみる１
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: default
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 投資の確率分布
+CATEGORY: 投資の確率分布
+
+DATE: 01/02/2009 13:56:18
+-----
+BODY:
+投資は一般的に正規分布に従うとか、対数正規分布に従うとか
+いろいろいわれているけど、それがどういった背景があるのか知りたいと思っていた。
+ここ数日、乱数を使ってシミュレーションしながら、あれこれ考えみたので、そのことを書いてみる。
+
+ファイナンスとかの本をよんで書いたわけじゃないので、テキトウな部分もあると思うけど、
+見た人が、何かの役に立ったら幸いです。
+
+
+１．定額の投資の場合
+
+はじめ100円を持っていて、ある一定の金額を賭けることを考えてみる。
+例えば下図のように10円賭けると、1/2の確率で＋10円、1/2の確率で-10円に
+なるような賭けをし、2回続けると下図のような確率となる。
+<a href="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/mniko0.gif" target="_blank"><img src="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/mniko0.gif" alt="二項分布モデル＋－10円" border="0" /></a>
+
+
+これを下図のように1回あたりの掛け金を0.1円にして、100000回続けた場合を
+乱数を使ってシミュレーションしてみた。サンプル数は1000000個。
+<a href="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/mniko1.gif" target="_blank"><img src="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/mniko1.gif" alt="二項分布モデル+-0.1円" border="0" /></a>
+<a href="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/niko1.gif" target="_blank"><img src="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/niko1.gif" alt="二項分布+-0.1円結果グラフ" border="0" /></a>
+　　　　　　　　　　　　　　　<strong>x=x+0.1 or x=x-0.1、100000回のシミュレーション結果</strong>
+
+乱数シミュレーション結果は平均μ=100.052、標準偏差σ=31.582であって、
+この平均と標準偏差を使った正規分布がグラフに重ねてある。
+
+ほぼ、正規分布にあっている。つまり、<u>投資の結果の分布が正規分布なら、
+定額の小さな賭けを繰り返している</u>と解釈することも可能かもしれない。
+
+
+次に微妙に賭けに勝ったときの報酬を増やしてみる。
+初期は100円、確率は勝ちも負けも1/2の確率、掛け金を0.1円のままで、
+勝ったときは+0.1002円、負けたときは-0.1円に設定。
+100000回続けた場合を、同様に乱数を使ってシミュレーションしてみた。
+サンプル数は1000000個。
+<a href="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/niko2.gif" target="_blank"><img src="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/niko2.gif" alt="二項分布+0.101-0.1円結果グラフ" border="0" /></a>
+
+　　　　　　　　　　　　　<strong>x=x+0.1002 or x=x-0.1、100000回のシミュレーション結果</strong>
+乱数シミュレーション結果は平均μ=109.982、標準偏差σ=31.682。
+
+ピークが少しずれるが、正規分布になっている。
+勝ったときと負けたときの変化量が違っていても、正規分布になるようである。
+
+<strong>○投資の確率分布を考えてみる一覧
+</strong><a href="http://nukoriki.blog95.fc2.com/blog-entry-6.html" target="_blank" title="１．定額の投資の場合">１．定額の投資の場合</a>
+<a href="http://nukoriki.blog95.fc2.com/blog-entry-7.html" target="_blank" title="２．定率の投資の場合">２．定率の投資の場合</a>
+<a href="http://nukoriki.blog95.fc2.com/blog-entry-8.html" target="_blank" title="３．対数正規分布">３．対数正規分布</a>
+<a href="http://nukoriki.blog95.fc2.com/blog-entry-9.html" target="_blank" title="４．正規分布と対数正規分布の不思議な関係">４．正規分布と対数正規分布の不思議な関係</a>
+<a href="http://nukoriki.blog95.fc2.com/blog-entry-10.html" target="_blank" title="５．期間を考える（定額の場合）">５．期間を考える（定額の場合）</a>
+<a href="http://nukoriki.blog95.fc2.com/blog-entry-11.html" target="_blank" title="６．期間を考える（定率の場合）">６．期間を考える（定率の場合）</a>
+<a href="http://nukoriki.blog95.fc2.com/blog-entry-12.html" target="_blank" title="７．対数正規分布を使ってみる">７．対数正規分布を使ってみる</a>
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: NU
+TITLE: 投資の確率分布を考えてみる２
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: default
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 投資の確率分布
+CATEGORY: 投資の確率分布
+
+DATE: 01/08/2009 22:17:42
+-----
+BODY:
+２．定率の投資の場合
+前回は一定の金額をものすごく小さな金額ずつ投資した場合を考えてみた。 
+株式などは常に変動しており、投資額も常に変動していると考えることもできる。 
+そこで現在の金額に対し一定の率で投資した場合を考えてみる。
+
+まずは簡単な例として、下図のように現在の10％の金額を賭けるとする。 
+現在110円の場合は11円賭けるということであり、 
+1/2の確率で1.1倍、1/2の確率で0.9倍になる。 
+前回の一定の金額の場合とは少しちがってくる。 
+<a target="_blank" href="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/mniko2.gif"><img alt="二項分布モデル10％" border="0" src="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/mniko2.gif" /></a> 
+
+<a name="tei">
+こんどは下図のように1回あたりの掛け金を0.1%にして、100000回続けた場合を 
+乱数を使ってシミュレーションしてみた。サンプル数は1000000個。 </a> 
+<a target="_blank" href="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/mniko3.gif"><img alt="二項分布モデル*0.1%" border="0" src="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/mniko3.gif" /></a> 
+<a target="_blank" href="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/niko3.gif"><img alt="二項分布モデル*0.1%グラフ" border="0" src="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/niko3.gif" /></a> 
+　　　　　　<strong>x=x+0.1 or x=x-0.1、100000回のシミュレーション結果</strong> 
+乱数シミュレーション結果は平均&mu;=99.989、標準偏差&sigma;=32.442。 
+この平均と標準偏差を使った対数正規分布がグラフに重ねてある。 
+対数正規分布に関してはあとで、詳しく説明するつもりなので、気にしないでください。 
+
+若干よくわからない分布が出てきたので、ここで自然対数をとってみる。 
+はじめの金額（ここでは100円）と、100000回後の金額ｘの比に自然対数をとった、 
+x'=ln(x/100)　を横軸にしてグラフにしたのが下の図である。 
+
+<a target="_blank" href="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/niko3log.gif"><img alt="二項分布モデル*0.1%グラフ log" border="0" src="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/niko3log.gif" /></a> 
+　　　　　<strong>x=x+0.1 or x=x-0.1、100000回のシミュレーション結果
+　　　　　　　　(横軸をx'=ln(x/100)にしたもの）</strong> 
+x'の平均&mu;<span style="font-size:x-small;">e</span>=-0.0502、標準偏差&sigma;<span style="font-size:x-small;">e</span>=0.3164。
+
+自然対数をとると正規分布になっている。
+
+この理由について考えてみた。
+100000回のうち勝負に勝った回数をn回、負けた回数をm回（m=100000-n)とすると
+x'＝ln(1.001^n×0.999^m)
+ ＝m×ln(1.001) ＋ n×ln(0.999)
+ ＝m×0.9995 ＋ n×(-1.0005)    となる。
+
+つまり、前回の自然対数をとったものの分布は
+勝ったらプラス0.9995円、負けたらマイナス1.005円の賭けを100000回したものと同じになる。
+
+前回、勝った時の報酬を少し増やしたものでも正規分布になったので、
+（今回は負けたほうの損が大きいが、勝ちと負けの報酬が同じなくても
+正規分布になるという意味で）、当然、今回も正規分布になったのである。
+
+
+今回の結論は定率の小さなの賭けを繰り返すと、
+結果の自然対数をとったものが正規分布になるということである。
+
+<strong>○投資の確率分布を考えてみる一覧
+</strong><a href="http://nukoriki.blog95.fc2.com/blog-entry-6.html" target="_blank" title="１．定額の投資の場合">１．定額の投資の場合</a>
+<a href="http://nukoriki.blog95.fc2.com/blog-entry-7.html" target="_blank" title="２．定率の投資の場合">２．定率の投資の場合</a>
+<a href="http://nukoriki.blog95.fc2.com/blog-entry-8.html" target="_blank" title="３．対数正規分布">３．対数正規分布</a>
+<a href="http://nukoriki.blog95.fc2.com/blog-entry-9.html" target="_blank" title="４．正規分布と対数正規分布の不思議な関係">４．正規分布と対数正規分布の不思議な関係</a>
+<a href="http://nukoriki.blog95.fc2.com/blog-entry-10.html" target="_blank" title="５．期間を考える（定額の場合）">５．期間を考える（定額の場合）</a>
+<a href="http://nukoriki.blog95.fc2.com/blog-entry-11.html" target="_blank" title="６．期間を考える（定率の場合）">６．期間を考える（定率の場合）</a>
+<a href="http://nukoriki.blog95.fc2.com/blog-entry-12.html" target="_blank" title="７．対数正規分布を使ってみる">７．対数正規分布を使ってみる</a>
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: NU
+TITLE: 投資の確率分布を考えてみる３
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: default
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 投資の確率分布
+CATEGORY: 投資の確率分布
+
+DATE: 01/09/2009 21:43:15
+-----
+BODY:
+３．対数正規分布
+
+今回は前回の例を使いながら、対数正規分布を説明してみる。
+
+<a href="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/tai1.gif" target="_blank"><img src="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/tai1.gif" alt="対数正規分布説明文１" border="0" /></a>
+<a href="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/tai2.gif" target="_blank"><img src="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/tai2.gif" alt="対数正規分布説明絵" border="0" /></a>
+
+前回の定率の小さな賭けを繰り返した場合の結果は、きれいな対数正規分布ではなかった。
+しかし、ここには載せていないが、回数を増やすと対数正規分布に近づくようであった。
+これらより、<u>投資の結果の分布が対数正規分布なら、
+定率の小さな賭けを繰り返している</u>と解釈することも可能かもしれない。
+
+<strong>○投資の確率分布を考えてみる一覧
+</strong><a href="http://nukoriki.blog95.fc2.com/blog-entry-6.html" target="_blank" title="１．定額の投資の場合">１．定額の投資の場合</a>
+<a href="http://nukoriki.blog95.fc2.com/blog-entry-7.html" target="_blank" title="２．定率の投資の場合">２．定率の投資の場合</a>
+<a href="http://nukoriki.blog95.fc2.com/blog-entry-8.html" target="_blank" title="３．対数正規分布">３．対数正規分布</a>
+<a href="http://nukoriki.blog95.fc2.com/blog-entry-9.html" target="_blank" title="４．正規分布と対数正規分布の不思議な関係">４．正規分布と対数正規分布の不思議な関係</a>
+<a href="http://nukoriki.blog95.fc2.com/blog-entry-10.html" target="_blank" title="５．期間を考える（定額の場合）">５．期間を考える（定額の場合）</a>
+<a href="http://nukoriki.blog95.fc2.com/blog-entry-11.html" target="_blank" title="６．期間を考える（定率の場合）">６．期間を考える（定率の場合）</a>
+<a href="http://nukoriki.blog95.fc2.com/blog-entry-12.html" target="_blank" title="７．対数正規分布を使ってみる">７．対数正規分布を使ってみる</a>
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: NU
+TITLE: 投資の確率分布を考えてみる４
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: default
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 投資の確率分布
+CATEGORY: 投資の確率分布
+
+DATE: 01/21/2009 19:32:19
+-----
+BODY:
+４．正規分布と対数正規分布の不思議な関係
+
+<a href="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/txt9.gif" target="_blank"><img src="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/txt9.gif" alt="記事９テキスト" border="0" /></a>
+
+<a href="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/glf9.gif" target="_blank"><img src="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/glf9.gif" alt="記事９グラフ" border="0" /></a>
+
+
+<a href="http://nukoriki.blog95.fc2.com/blog-entry-7.html#tei">前々回</a>は最初100円とし、現在の金額の0.1%を、100000回賭けたときの分布を見てみた。
+賭けに勝つ確率は50％で、勝った時に儲かる金額と負けたとき損する金額が同じなので、
+100000回後の平均μは99.989とほぼ100円のままであった。
+しかし、自然対数をとったものの分布はμ<span style="font-size:x-small;">e</span>=-0.0502とマイナス側にピークを持っている。
+この結果は、今回の対数正規分布おいて、リスクがあると元本割れの確率は50％を超える
+ということとつじつまがあっている。
+
+
+<strong>○投資の確率分布を考えてみる一覧
+</strong><a href="http://nukoriki.blog95.fc2.com/blog-entry-6.html" target="_blank" title="１．定額の投資の場合">１．定額の投資の場合</a>
+<a href="http://nukoriki.blog95.fc2.com/blog-entry-7.html" target="_blank" title="２．定率の投資の場合">２．定率の投資の場合</a>
+<a href="http://nukoriki.blog95.fc2.com/blog-entry-8.html" target="_blank" title="３．対数正規分布">３．対数正規分布</a>
+<a href="http://nukoriki.blog95.fc2.com/blog-entry-9.html" target="_blank" title="４．正規分布と対数正規分布の不思議な関係">４．正規分布と対数正規分布の不思議な関係</a>
+<a href="http://nukoriki.blog95.fc2.com/blog-entry-10.html" target="_blank" title="５．期間を考える（定額の場合）">５．期間を考える（定額の場合）</a>
+<a href="http://nukoriki.blog95.fc2.com/blog-entry-11.html" target="_blank" title="６．期間を考える（定率の場合）">６．期間を考える（定率の場合）</a>
+<a href="http://nukoriki.blog95.fc2.com/blog-entry-12.html" target="_blank" title="７．対数正規分布を使ってみる">７．対数正規分布を使ってみる</a>
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: NU
+TITLE: 投資の確率分布を考えてみる５
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: default
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 投資の確率分布
+CATEGORY: 投資の確率分布
+
+DATE: 01/21/2009 22:40:01
+-----
+BODY:
+５．期間を考える（定額の場合）
+
+前回までは、投資の期間について考えてこなかった。
+今度は、投資の期間をかえると、どんな分布にかわっていくか考えてみたい。
+
+<２項分布の場合>
+まず、最初に戻って、<a href="http://nukoriki.blog95.fc2.com/blog-entry-6.html" target="_blank" title="定額で投資した場合">定額で投資した場合</a>で考えてみる。
+はじめ100円を持っていて、0.1円賭け、1/2の確率で＋0.1円、1/2の確率で-0.1円になる
+条件とする。
+ここで、今回は賭けの回数を1万回～10万回とかえてやってみる。、
+賭けにはある一定の時間がかかる場合、投資の期間をかえたとも解釈できる。
+この乱数を使ってシミュレーションした結果が下のグラフである。サンプル数は1000000個。
+
+<a href="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/e10-1.gif" target="_blank"><img src="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/e10-1.gif" alt="エントリ１０二項分布" border="0" /></a>
+　　　　　　　　　　<strong>x=x+0.1 or x=x-0.1　１～10万回のシミュレーション結果</strong>
+
+回数が増えるごとに分布は広がる。
+また、標準偏差σは回数がn倍になると√n倍になっている。
+
+
+<正規分布の場合>
+これまでの結果より、定額の場合は正規分布に近づくということであった。
+なので、正規分布で考えてみる。
+最初１００円を持っており、１００円投資すると1年後にお金の<strong>増減量</strong>がμ=0,σ=10
+の正規分布に従うような投資を考える。また、今回は<strong>定額</strong>の投資であるため、
+2年目からも必ず１００円投資するとする。
+もし、1年目で１００円以下になっても、誰かからお金を借りられるものと考えてみる。
+そして、投資が終わった時に借りた分を返して、全部を合計するとする。
+
+これを計算するときは下のように正規分布を<strong>足す</strong>ことでできる。
+n年後の金額　＝　100＋R<span style="font-size:x-small;">1</span>+R<span style="font-size:x-small;">2</span>+R<span style="font-size:x-small;">3</span>+…R<span style="font-size:x-small;">ｎ</span>
+（R<span style="font-size:x-small;">1</span>…R<span style="font-size:x-small;">ｎ</span>はμ=0,σ=10の正規分布に従う乱数。)
+
+投資期間を１～10年とし、正規分布に従う乱数を発生させてシミュレーションした結果が
+下のグラフである。サンプル数は1000000個。
+
+<a href="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/e10-2.gif" target="_blank"><img src="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/e10-2.gif" alt="エントリ１０正規分布" border="0" /></a>
+　　　　　　　　　<strong>増減量が正規分布（μ=0,σ=10）　１～10年のシミュレーション結果</strong>
+
+2項分布と同じように期間が増えるごとに分布は広がる。
+また、標準偏差σは期間がn倍になると√n倍になっている。
+もし、2年目からも１００円の定額ではなく、1年目に投資した結果の金額を
+そのまま投資した場合、このような分布にはならず、2項分布の結果と一致はしない。
+
+
+次に、若干儲かる条件として1年後のお金の増減量をμ=2,σ=10にかえ、
+同様に正規分布に従う乱数を発生させてシミュレーションした結果が下のグラフである。
+サンプル数は1000000個。
+<a href="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/e10-3.gif" target="_blank"><img src="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/e10-3.gif" alt="エントリ１０正規分布２" border="0" /></a>
+　　　　　　　　　<strong>増減量が正規分布（μ=2,σ=10）　１～10年のシミュレーション結果</strong>
+
+標準偏差σは期間がn倍になると√n倍になっているのは同じであり、
+平均は期間がn倍になるとn倍増えている。
+しかし、この場合複利効果はない。
+
+これら結果より、正規分布をn回<strong>足した</strong>場合、
+標準偏差σは√n倍となり、平均はn倍増える。
+
+<strong>○投資の確率分布を考えてみる一覧
+</strong><a href="http://nukoriki.blog95.fc2.com/blog-entry-6.html" target="_blank" title="１．定額の投資の場合">１．定額の投資の場合</a>
+<a href="http://nukoriki.blog95.fc2.com/blog-entry-7.html" target="_blank" title="２．定率の投資の場合">２．定率の投資の場合</a>
+<a href="http://nukoriki.blog95.fc2.com/blog-entry-8.html" target="_blank" title="３．対数正規分布">３．対数正規分布</a>
+<a href="http://nukoriki.blog95.fc2.com/blog-entry-9.html" target="_blank" title="４．正規分布と対数正規分布の不思議な関係">４．正規分布と対数正規分布の不思議な関係</a>
+<a href="http://nukoriki.blog95.fc2.com/blog-entry-10.html" target="_blank" title="５．期間を考える（定額の場合）">５．期間を考える（定額の場合）</a>
+<a href="http://nukoriki.blog95.fc2.com/blog-entry-11.html" target="_blank" title="６．期間を考える（定率の場合）">６．期間を考える（定率の場合）</a>
+<a href="http://nukoriki.blog95.fc2.com/blog-entry-12.html" target="_blank" title="７．対数正規分布を使ってみる">７．対数正規分布を使ってみる</a>
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: NU
+TITLE: 投資の確率分布を考えてみる６
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: default
+ALLOW PINGS: 0
+PRIMARY CATEGORY: 投資の確率分布
+CATEGORY: 投資の確率分布
+
+DATE: 01/28/2009 21:51:44
+-----
+BODY:
+６．期間を考える（定率の場合）
+
+前回、定額の投資をした場合を考えた。
+期間がn倍になると、正規分布の標準偏差σが√n倍、平均μがn倍になるということだった。
+今回は定率の場合を考えてみる。
+定率の投資は対数正規分布になる（<a href="http://nukoriki.blog95.fc2.com/blog-entry-7.html" target="_blank" title="対数正規分布になる　">２回目</a>と<a href="http://nukoriki.blog95.fc2.com/blog-entry-8.html" target="_blank" title="これ">３回目</a>）　ということだった。
+投資の期間をかえることを考えた場合、前の定額の場合と違い、今回は定率（現在持っている額
+の内、一定の率で投資し続けること）なので、２年目の投資額は1年目の結果の額をそのまま投資
+するのが正しいと思われる。
+
+X<span style="font-size:x-small;">n</span>をn年目は前の年に比べ何倍になったかを表すとし、
+Xをn年間で合計何倍になったかを表すとすると、
+X = X<span style="font-size:x-small;">1</span> × X<span style="font-size:x-small;">2</span> × X<span style="font-size:x-small;">3</span> ×…× X<span style="font-size:x-small;">n</span>　　（a)式
+となる。
+
+ここで、X<span style="font-size:x-small;">1</span>，X<span style="font-size:x-small;">2</span>，X<span style="font-size:x-small;">3</span>，…，X<span style="font-size:x-small;">n</span>をそれぞれμ=1.02，σ=0.1の対数正規分布に従う乱数とし、
+Xを計算するシュミレーションをしてみた。年数nは１年～１０年までそれぞれシミュレーションした。
+サンプル数は1000000個。
+
+<a href="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/e11-1.gif" target="_blank"><img src="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/e11-1.gif" alt="エントリ１１対数正規分布" border="0" /></a>
+　　　　　　<strong>対数正規分布（μ=1.02,σ=0.1）　１～10年のシミュレーション結果</strong>
+
+正規分布の場合と違いσはｎ年後に√n倍にはなっていない。
+また、μはn乗となっており、複利効果が出ている。
+
+<a href="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/e11-3.gif" target="_blank"><img src="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/e11-3.gif" alt="エントリ１１説明１" border="0" /></a>
+<a href="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/e11-2.gif" target="_blank"><img src="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/e11-2.gif" alt="エントリ１１対数正規分布２" border="0" /></a>
+　　<strong>対数正規分布（μ=1.02,σ=0.1）の自然対数　１～10年のシミュレーション結果</strong>
+
+<a href="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/e11-4.gif" target="_blank"><img src="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/e11-4.gif" alt="エントリ１１説明２" border="0" /></a>
+
+対数正規分布の平均μと標準偏差σがn年後にどうなるかを式で考えてみる。
+（<a href="http://nukoriki.blog95.fc2.com/blog-entry-9.html" target="_blank" title="前々回">前々回</a>）出てきた①～④式の内、①、②式ににμe→ｎ×μe、σe→√ｎ×σeを代入すればいい。
+<a href="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/e11-6.gif" target="_blank"><img src="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/e11-6.gif" alt="エントリ１１式" border="0" /></a>
+対数正規分布の平均μはn年後にｎ乗になることが式でもでてきた。
+標準偏差σはちょっと複雑になってしまった。
+
+これをまとめると下のようなイメージになる。
+<a href="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/e11-5.gif" target="_blank"><img src="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/e11-5.gif" alt="エントリ１１説明３" border="0" /></a>
+
+今回の結論は、対数正規分布は期間がn倍になると、
+eの肩に乗っかっている正規分布のμeがｎ倍、σeが√n倍になるということである。
+
+<strong>○投資の確率分布を考えてみる一覧
+</strong><a href="http://nukoriki.blog95.fc2.com/blog-entry-6.html" target="_blank" title="１．定額の投資の場合">１．定額の投資の場合</a>
+<a href="http://nukoriki.blog95.fc2.com/blog-entry-7.html" target="_blank" title="２．定率の投資の場合">２．定率の投資の場合</a>
+<a href="http://nukoriki.blog95.fc2.com/blog-entry-8.html" target="_blank" title="３．対数正規分布">３．対数正規分布</a>
+<a href="http://nukoriki.blog95.fc2.com/blog-entry-9.html" target="_blank" title="４．正規分布と対数正規分布の不思議な関係">４．正規分布と対数正規分布の不思議な関係</a>
+<a href="http://nukoriki.blog95.fc2.com/blog-entry-10.html" target="_blank" title="５．期間を考える（定額の場合）">５．期間を考える（定額の場合）</a>
+<a href="http://nukoriki.blog95.fc2.com/blog-entry-11.html" target="_blank" title="６．期間を考える（定率の場合）">６．期間を考える（定率の場合）</a>
+<a href="http://nukoriki.blog95.fc2.com/blog-entry-12.html" target="_blank" title="７．対数正規分布を使ってみる">７．対数正規分布を使ってみる</a>
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: NU
+TITLE: 投資の確率分布を考えてみる７
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: default
+ALLOW PINGS: 1
+PRIMARY CATEGORY: 投資の確率分布
+CATEGORY: 投資の確率分布
+
+DATE: 02/01/2009 21:59:37
+-----
+BODY:
+７．対数正規分布を使ってみる
+
+前回、対数正規分布は期間がn倍になると、
+eの肩に乗っかっている正規分布のμeがn倍、σeが√n倍になることがわかった。
+なので、今回実際に使ってみようと思う。
+今まで乱数を使って計算していたけど、今回は式を使ってExcelで計算してみる。
+
+まず、<a href="http://www.fund-no-umi.com/blog/2008/12/topix20-92ed.html" target="_blank" title="こちらのブログ">こちらのブログ</a>で使われていた
+TOPIXの、１年間の期待リターン4.80％、リスク22.15％を使って元本割れの確率を出してみる。
+これより
+μ=1.048
+σ=0.2215
+となる。
+今回はTOPIXが対数正規分布であると仮定する。
+対数正規分布を考えるときは、eの肩に乗っかっている正規分布で考えたほうが考えやすい。
+このため、これを、前に出てきた③、④式を使って、μe、σeに変換する。
+<a href="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/e12-1.gif" target="_blank"><img src="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/e12-1.gif" alt="エントリ１２式③④" border="0" /></a>
+すると、
+μe=0.0250
+σe=0.2091
+となる。
+これは１年間の平均と標準偏差なので、ｎ年間の場合はμeをn倍、σeを√n倍にすればいい。
+元本割れの確率はe^0=1よりも小さいとき、つまり、eの肩に乗っかる正規分布が0より
+小さいときである。
+このため元本割れの確率はExcelで　=NORMDIST(0,μe,σe,1)　を計算すればでてくる。
+<a href="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/e12-2.gif" target="_blank"><img src="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/e12-2.gif" alt="エントリ１２表１" border="0" /></a>
+
+次にチューリップグラフというものを<a href="http://d.hatena.ne.jp/bem21st/20081020/p1" target="_blank" title="こちらのブログ">こちらのブログ</a>で見つけたので、対数正規分布で試してみる。
+正規分布のμe±σeの間には68.3%の確率で入り、μe±２σeの間には95.4%の確率で
+入ることは聞いたことがある人もいる思う。
+ということで、とりあえずμe±σeとμe±２σeを計算する。<a href="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/e12-3.gif" target="_blank"><img src="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/e12-3.gif" alt="エントリ１２表２" border="0" /></a>
+
+この値だとあまり意味がないので、これをeの肩に乗っけてやると、
+例えば5年後の投資の結果が95.4%の確率で0.445倍～2.887倍の間になるとかがわかる。
+<a href="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/e12-4.gif" target="_blank"><img src="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/e12-4.gif" alt="エントリ１２表３" border="0" /></a>
+
+これをグラフにプロットしたのが下のグラフ。
+<a href="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/e12-5.gif" target="_blank"><img src="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/e12-5.gif" alt="グラフ１" border="0" /></a>
+
+あんまり、チューリップの形になってない。かなり発散している。
+20年後に元本を大きく下回る場合もありうることがわかる。
+
+
+次に<a href="http://www.fund-no-umi.com/blog/2008/12/post-09d1.html" target="_blank" title="先ほどのブログ">先ほどのブログ</a>でもう一つ試していた国内債券、国内株式、外国債券、外国株式
+を同じ割合にしたポートフォリオ（リターンが4.08％、リスク9.61％）を
+対数正規分布に従うと仮定して、同じことをしてみた結果が下のグラフである。
+<a href="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/e12-6.gif" target="_blank"><img src="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/e12-6.gif" alt="グラフ２" border="0" /></a>
+２０年後の元本割れの確率が少なくなり、見にくいけどマイナス側の線が
+途中から上向きになっているのが見えると思う。
+それでも、ちょっとチューリップの形というのは苦しい。
+
+
+対数正規分布を使うと、どんどん発散していくので本当に現実とあっているのかは
+疑問に思う部分がある。
+
+※ここに書いたことは本とかでちゃんと調べたものでなく、正しいとは限らないので
+　納得できたら使ってください。
+
+<strong>○投資の確率分布を考えてみる一覧
+</strong><a href="http://nukoriki.blog95.fc2.com/blog-entry-6.html" target="_blank" title="１．定額の投資の場合">１．定額の投資の場合</a>
+<a href="http://nukoriki.blog95.fc2.com/blog-entry-7.html" target="_blank" title="２．定率の投資の場合">２．定率の投資の場合</a>
+<a href="http://nukoriki.blog95.fc2.com/blog-entry-8.html" target="_blank" title="３．対数正規分布">３．対数正規分布</a>
+<a href="http://nukoriki.blog95.fc2.com/blog-entry-9.html" target="_blank" title="４．正規分布と対数正規分布の不思議な関係">４．正規分布と対数正規分布の不思議な関係</a>
+<a href="http://nukoriki.blog95.fc2.com/blog-entry-10.html" target="_blank" title="５．期間を考える（定額の場合）">５．期間を考える（定額の場合）</a>
+<a href="http://nukoriki.blog95.fc2.com/blog-entry-11.html" target="_blank" title="６．期間を考える（定率の場合）">６．期間を考える（定率の場合）</a>
+<a href="http://nukoriki.blog95.fc2.com/blog-entry-12.html" target="_blank" title="７．対数正規分布を使ってみる">７．対数正規分布を使ってみる</a>
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+COMMENT:
+AUTHOR: 美少女好き
+EMAIL: vivabisyoujyo@yahoo.co.jp
+IP: nptty407.jp-t.ne.jp
+URL: http://9w96oX42.doll-doll.net/9w96oX42/
+DATE: 07/15/2012 21:16:27
+TITLE: リアルな話
+SECRET: 0
+PASS: 74be16979710d4c4e7c6647856088456
+906Qu9Nv
+ちょっと聞いてくれよ。
+リアルで人形みたいな美少女と、エッチできちまった…。
+
+今までフィギュアとドールにしか興味なかったけど、
+生身の女ってやっぱ最高だわ（笑）
+
+詳細レポはこちら
+http://9w96oX42.doll-doll.net/9w96oX42/
+-----
+
+
+--------
+AUTHOR: NU
+TITLE: ドル・コスト平均法が最もよいか？
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: default
+ALLOW PINGS: 1
+PRIMARY CATEGORY: 投資
+CATEGORY: 投資
+
+DATE: 02/01/2009 17:37:41
+-----
+BODY:
+ドル・コスト平均法がいい理由としてよくあげられる例は
+一定の株数を買うのと、一定の金額で買う場合を比べて
+一定の金額で買うほうが平均単価が下がるからと説明されることが多い。
+
+今回は、比べる対象を少し変えて本当にドル・コスト平均法が最もいいかを考えてみる。
+
+例えば、宝くじや退職金など急にたくさんのお金が入ってきた場合、
+一度に投資すべきか、少しずつ投資していくべきか迷うことがあると思う。
+
+そこで、下の図のように６０万円の現金が手元にあり、１０年間投資する機会がある
+場合を考えてみる。
+
+<a href="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/e13-1.gif" target="_blank"><img src="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/e13-1.gif" alt="図１" border="0" /></a>
+
+ケース①は1年目に60万を5年間投資して、6年目からは何もしない。
+ケース②は1年目に30万を5年間投資して、6年目に30万を5年間投資する。
+ケース③は1年目から6年目まで10万ずつ、すべて5年間投資する。
+
+投資している金額×期間は同じなので期待値は同じであるはずである。
+ケース①より、ケース②やケース③の方がばらつきが減りそうである。
+だだ、ケース②とケース③がどっちがいいかは微妙なとこである。
+
+そこで、投資の結果が対数正規分布に従うと仮定して、シミュレーションしてみた。
+一年間の投資の結果は平均μ=1.05、標準偏差σ=0.2である対数正規分布とした。
+
+＜シミュレーションの仕方＞
+まず、それぞれ独立な対数正規分布（μ=1.05、σ=0.2）に従う乱数を10個
+C<span style="font-size:x-small;">1</span>,C<span style="font-size:x-small;">2</span>,C<span style="font-size:x-small;">3</span>,…,C<span style="font-size:x-small;">10</span> を生成させる。
+ケース①の場合
+60万×C<span style="font-size:x-small;">1</span>×C<span style="font-size:x-small;">2</span>×C<span style="font-size:x-small;">3</span>×C<span style="font-size:x-small;">4</span>×C<span style="font-size:x-small;">5</span>
+ケース②の場合
+30万×C<span style="font-size:x-small;">1</span>×C<span style="font-size:x-small;">2</span>×C<span style="font-size:x-small;">3</span>×C<span style="font-size:x-small;">4</span>×C<span style="font-size:x-small;">5</span>＋30万×C<span style="font-size:x-small;">6</span>×C<span style="font-size:x-small;">7</span>×C<span style="font-size:x-small;">8</span>×C<span style="font-size:x-small;">9</span>×C<span style="font-size:x-small;">10</span>
+ケース③の場合
+10万×C<span style="font-size:x-small;">1</span>×C<span style="font-size:x-small;">2</span>×C<span style="font-size:x-small;">3</span>×C<span style="font-size:x-small;">4</span>×C<span style="font-size:x-small;">5</span>＋10万×C<span style="font-size:x-small;">2</span>×C<span style="font-size:x-small;">3</span>×C<span style="font-size:x-small;">4</span>×C<span style="font-size:x-small;">5</span>×C<span style="font-size:x-small;">6</span>
+＋10万×C<span style="font-size:x-small;">3</span>×C<span style="font-size:x-small;">4</span>×C<span style="font-size:x-small;">5</span>×C<span style="font-size:x-small;">6</span>×C<span style="font-size:x-small;">7</span>＋10万×C<span style="font-size:x-small;">4</span>×C<span style="font-size:x-small;">5</span>×C<span style="font-size:x-small;">6</span>×C<span style="font-size:x-small;">7</span>×C<span style="font-size:x-small;">8</span>
+＋10万×C<span style="font-size:x-small;">5</span>×C<span style="font-size:x-small;">6</span>×C<span style="font-size:x-small;">7</span>×C<span style="font-size:x-small;">8</span>×C<span style="font-size:x-small;">9</span>＋10万×C<span style="font-size:x-small;">6</span>×C<span style="font-size:x-small;">7</span>×C<span style="font-size:x-small;">8</span>×C<span style="font-size:x-small;">9</span>×C<span style="font-size:x-small;">10</span>
+を計算し、これを1000000回繰り返す。
+この結果が下のグラフである。
+<a href="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/e13-2.gif" target="_blank"><img src="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/e13-2.gif" alt="図２" border="0" /></a>
+　　　　　　　　　<strong>ケース①～③での乱数シミュレーション結果</strong>
+
+平均は予想通りどのケースも同じで、約1.05^5=1.276倍になっている。
+標準偏差はケース①より、ケース②・③の方が小さくなっている。
+これは投資の結果が毎年独立で計算しているため、期間を分散することで、
+分散効果が得られているからである。
+
+ケース③の方がケース②よりもなんとなく標準偏差が小さいだろうと思っていた人もいると思う。
+そこで下のようなケース②*を考えてみる。
+ケース②と違い、はじめの5年と後の5年で金額を変えてある。
+これも同様に乱数によるシミュレーションをしてμとσを出してある。
+<a href="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/e13-3.gif" target="_blank"><img src="http://blog-imgs-19.fc2.com/n/u/k/nukoriki/e13-3.gif" alt="図３" border="0" /></a>
+
+ケース②*のσはケース②よりも大きくなっている。
+このことから、投資の金額が多い時期があるとσは大きくなると考えられる。
+ケース③を見てみると、５・６年目など、投資の金額が多い時期がある。
+このため、ケース②よりもσが大きくなったと考えられる。
+
+今回の結論は、投資の結果が対数正規分布に従う（つまりランダムに動く）場合は、
+ドルコスト平均法がベストとは限らないということである。
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
