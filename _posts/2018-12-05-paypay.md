@@ -1,0 +1,7 @@
+---
+layout: post
+title: 投資
+category: blog
+tags: はてな
+---
+
