@@ -57,7 +57,7 @@ permalink: /:year:month:day:title/
 
 # add pagenate function ref: http://genjiapp.com/blog/2013/11/17/jekyll-pagination.html
 paginate: 7
-paginate_path: "blog/page:num"
+paginate_path: "page:num"
 
 
 
