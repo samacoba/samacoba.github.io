@@ -70,7 +70,7 @@ chainer.global_config.dtype =  np.float16
 
 NVIDIA Visual Profiler(NVVP)を使ってFP16での計算のプロファイルを見てみました。
 
-![imgae](/images/20190521-fp16.PNG)
+![imgae](/images/20190521-fp16.png)
 
 「turing_fp16_s1688gemm」の部分がどうやらTensor Coreでの計算部分のようです。2層目から5層目の4回分が一番計算負荷が高い「 4096(batch) × 4096(入力x) ・4096×4096(W)」の計算なので、その4回のfoward計算の後、2×4回分のbackwardが続いているようです。
 
