@@ -34,6 +34,7 @@ Tensor Coreを使うには
 ```
 chainer.global_config.dtype =  np.float16
 ```
+
 を入れれば、MNISTのデータも自動的にFP16に変換してくれているようで、全結合層ではどうやら自動的にTensor Coreが使われるみたいです。
 
 
@@ -47,7 +48,7 @@ chainer.global_config.dtype =  np.float16
 
 結果、全然早くなっていません。
 
-　この要因はサンプルのMNISTではGPUの行列計算よりも、CPUのその他いろいろな処理の方が遅いことにあるようです。CPUの負荷を下げるのは大変なので、とりあえずTensor Coreの効果をみるのに、GPUの行列計算の割合を増やした場合を試してみます。
+この要因はサンプルのMNISTではGPUの行列計算よりも、CPUのその他いろいろな処理の方が遅いことにあるようです。CPUの負荷を下げるのは大変なので、とりあえずTensor Coreの効果をみるのに、GPUの行列計算の割合を増やした場合を試してみます。
 
 ## 6層 MNISTで試す
 
