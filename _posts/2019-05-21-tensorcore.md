@@ -5,7 +5,7 @@ category: blog
 tags: Qiita
 ---
 
-計算速度が一気に8倍速くなるらしいTensor Core使えるということで、昨年9月にTuring世代のGPUを買ってみたものの、Tensor Coreが簡単に使えて一気に早くなるわけでもなく、しばらくTensor Coreが使えているかどうかもよくわかない状態でした。今回[一部修正](https://github.com/cupy/cupy/pull/2168)もあって、Chainer v7.0.0a1でTensor Coreが使えることがほぼ確認できました。 
+計算速度が一気に8倍速くなるらしいTensor Coreが使えるということで、昨年9月にTuring世代のGPUを買ってみたものの、Tensor Coreが簡単に使えて一気に早くなるわけでもなく、しばらくTensor Coreが使えているかどうかもよくわからない状態でした。今回[一部修正](https://github.com/cupy/cupy/pull/2168)もあって、Chainer v7.0.0a1でTensor Coreが使えることがほぼ確認できました。 
 
 また、Google ColaboratoryのGPUもTesla T4とTuring世代となり、Tensor Coreが使えそうなので試してみました。
 
@@ -39,7 +39,7 @@ chainer.global_config.dtype =  np.float16
 
 
 
-### 3層MNIST結果(unit:1000, batch:100, @RTX2080)
+### 3層MNIST結果(unit:1000, batch:100, ＠RTX2080)
 
 |　| FP32 | FP16 | FP32/FP16  |
 | :----|-----: | ----: | ---------:  |
@@ -60,7 +60,7 @@ chainer.global_config.dtype =  np.float16
 
 隠れ層を4096ユニットにして、バッチを4096枚まで大きくして計算しました。
 
-### 6層MNIST結果(unit:4096, batch:4096, @RTX2080)
+### 6層MNIST結果(unit:4096, batch:4096, ＠RTX2080)
 
 |　| FP32 | FP16 | FP32/FP16  |
 | :----|-----: | ----: | ---------:  |
@@ -73,7 +73,7 @@ NVIDIA Visual Profiler(NVVP)を使ってFP16での計算のプロファイルを
 
 ![imgae](/images/20190521-fp16.png)
 
-「turing_fp16_s1688gemm」の部分がどうやらTensor Coreでの計算部分のようです。2層目から5層目の4回分が一番計算負荷が高い「 4096(batch) × 4096(入力x) ・4096×4096(W)」の計算なので、その4回のfoward計算の後、2×4回分のbackwardが続いているようです。
+「turing_fp16_s1688gemm」の部分がどうやらTensor Coreでの計算部分のようです。2層目から5層目の4回分が一番計算負荷が高い「 4096(batch) × 4096(入力x) ・4096×4096(W)」の計算なので、その4回のforward計算の後、2×4回分のbackwardが続いているようです。
 
 今回、Adamを使うとFP16でうまく計算ができなくなることがあったので、両方AdamではなくSGDを使っています。
 学習率は変えないまま、batchを大きくしたので、20epoch中の学習する回数は少なくなり、正答率は下がっています。また、FP32に比べ、FP16の正答率が低いのは、FP16の桁が少ないことによるかもしれません。mixed16など使えば改善するかもしれませんが、今回はそのあたりは深入りしていません。
