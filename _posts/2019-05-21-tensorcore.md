@@ -2,7 +2,7 @@
 layout: post
 title: ChainerでTensor Coreを使ってみる
 category: blog
-tags: Qiita
+tags: Qiita 深層学習
 ---
 
 計算速度が一気に8倍速くなるらしいTensor Coreが使えるということで、昨年9月にTuring世代のGPUを買ってみたものの、Tensor Coreが簡単に使えて一気に早くなるわけでもなく、しばらくTensor Coreが使えているかどうかもよくわからない状態でした。今回[一部修正](https://github.com/cupy/cupy/pull/2168)もあって、Chainer v7.0.0a1でTensor Coreが使えることがほぼ確認できました。 
