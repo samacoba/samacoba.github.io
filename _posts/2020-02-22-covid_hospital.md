@@ -2,7 +2,7 @@
 layout: post
 title: 新型コロナから自分の病院を守る相談システムを考えてみる
 category: blog
-tags: はてな
+tags: 
 ---
 
 
