@@ -11,7 +11,7 @@ permalink: /about/
 ![Image](/images/github-samacoba.jpg)
 
 1983年生まれ ⇒ 2008年修士卒  
-⇒ 10年間エンジニア ⇒ 2018.4～ 学生（博士）
+⇒ 10年間エンジニア ⇒ 2018.4～ 学生（博士休学中）
 
 金沢市在住(Japan)
 
